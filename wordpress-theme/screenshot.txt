@@ -1,0 +1,5 @@
+NOTA: Para ativar o tema no WordPress, você precisa criar um arquivo screenshot.png
+com dimensões 1200x900px mostrando uma prévia do tema.
+
+Você pode tirar um screenshot da landing page no Lovable e salvar como screenshot.png
+nesta pasta do tema.
